@@ -15,15 +15,18 @@ Before importing flow please add folowing code to
 functionGlobalContext: {} of settings.js file of NODE-RED to enable required functions for hash calculation:
 
 md5:require('md5'),
+
 sha256:require('sha256')
 
 and install them using npm install:
 
 npm install md5
+
 npm install sha256
 
 In some cases it may be required to instal them globally:
 npm install -g md5
+
 npm install -g sha256
 
 Reboot Node-Red before continue.

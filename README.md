@@ -3,7 +3,8 @@
 Simple flow to show how to use Keenetic API from Node-RED. http://forum.keenetic.com for API questions.
 See flow.jpg for visual representation.
 
-In this flow modern (2.13+ firmware) supported and secured method for authentification is used to minimize router overhead. Every 5-sec request polling usually have low effect on router cpu load by my experience. 
+In this flow modern (2.13+ firmware) supported and highly secured method for authentification is used to minimize router overhead.
+Every 5-sec request polling usually have low effect on router cpu load by my experience. 
 
 APIs demoed:
 1) WIFI devices connected

@@ -32,5 +32,9 @@ npm install -g sha256
 
 Reboot Node-Red before continue.
 
+You may need following additional nodes according to your configuration:
+
+node-red-contrib-splitter
+
 After that you can import the flow from flow.txt. Then change username and password to your router in "Put your router login/pass here".
 Please take into acccount tha this is sample flow, you need to tune it up according to your smarthome solution.

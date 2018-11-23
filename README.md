@@ -25,6 +25,7 @@ npm install md5
 npm install sha256
 
 In some cases it may be required to instal them globally:
+
 npm install -g md5
 
 npm install -g sha256

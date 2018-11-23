@@ -9,7 +9,7 @@ APIs demoed:
 1) WIFI devices connected
 2) Traffic on selected interface
 
-Remark: See Keenetic documementation for more commands or just look at developer console in Crome during navigation thought Keenetic Dashboard interface. Almost everything is available. Actional commands will need POST http request, not covered here yet. 
+Remark: See Keenetic documentation for more commands or just look at developer console in Crome during navigation thought Keenetic Dashboard interface. Almost everything is available. Actional commands will need POST http request, not covered here yet. 
 
 Before importing flow please add folowing code to 
 functionGlobalContext: {} of settings.js file of NODE-RED to enable required functions for hash calculation:

@@ -5,6 +5,9 @@ APIs demoed:
 1) WIFI devices connected
 2) Traffic on selected interface
 
+Remark: See Keenetic documementation for more commands or just look at developer console in Crome during navigation thought Keenetic Dashboard interface. Almost everything is available. Actional commands will need POST http request, not covered here yet. 
+
+
 Then you can pass data to Smart Home system of your choice - Domoticz, Majordomo, etc.
 
 Before importing flow please add folowing code to 
